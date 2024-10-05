@@ -10,15 +10,15 @@ Welcome to the A-Healthcare-System project! We appreciate your interest in contr
 
 3. Clone the forked repository to your local machine:
 
-    ```bash
-    git clone https://github.com/your-username/A-Healthcare-System-using-Machine-Learning-Techniques-for-Disease-Prediction-with-Chatbot-Assistance.git
-    ```
+   ```bash
+   git clone https://github.com/your-username/A-Healthcare-System-using-Machine-Learning-Techniques-for-Disease-Prediction-with-Chatbot-Assistance.git
+   ```
 
 4. Create a new branch for your contribution:
 
-    ```bash
-    git checkout -b feature/your-contribution
-    ```
+   ```bash
+   git checkout -b feature/your-contribution
+   ```
 
 ## Making Changes
 
@@ -36,15 +36,15 @@ Welcome to the A-Healthcare-System project! We appreciate your interest in contr
 
 1. Commit your changes:
 
-    ```bash
-    git commit -m "Add your concise commit message here"
-    ```
+   ```bash
+   git commit -m "Add your concise commit message here"
+   ```
 
 2. Push your changes to your forked repository:
 
-    ```bash
-    git push origin feature/your-contribution
-    ```
+   ```bash
+   git push origin feature/your-contribution
+   ```
 
 3. Create a pull request on the main repository. Be sure to include a detailed description of your changes.
 
